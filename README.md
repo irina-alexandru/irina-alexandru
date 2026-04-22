@@ -24,8 +24,8 @@ I care deeply about building systems that “just work” — not because they�
 ---
 ## 🧩 How I Approach Complex Problems
 My work often involves ambiguity, timing‑dependent behavior, and hardware/software interactions. Over time, I’ve developed a consistent approach to tackling complex problems:
-### **1. Understand the feature or workflow end‑to‑end**  
-I start by mapping the full workflow for the feature I’m working on — the relevant hardware signals, software events, timing constraints, and failure modes. Even in large legacy systems where full system knowledge isn’t realistic, understanding the boundaries and interactions of the feature helps me identify risks, dependencies, and where timing or behavior might be affected.
+### **1. Understand the feature, use-cases and workflow end‑to‑end**  
+I start by mapping the full workflow for the feature I’m working on — the relevant client motivation, hardware behaviour, software events, timing constraints, and failure modes. Even in large legacy systems where full system knowledge isn’t realistic, understanding the boundaries and interactions of the feature helps me identify risks, dependencies, and where timing or behavior might be affected.
 ### **2. Clarify requirements early**  
 I work closely with process engineers, hardware teams, product teams, and other developers to remove ambiguity. Clear requirements reduce rework and make design decisions defensible.
 ### **3. Break the problem into predictable components**  
@@ -45,7 +45,7 @@ This approach has helped me deliver reliable systems under tight timelines, navi
 ---
 ## ⭐ What I'm Proud Of
 Most of my work is proprietary, but I’m proud of:
-- Designing complex integrations with limited documentation and tight timing constraints  
+- Designing and integrating complex components with limited documentation and tight timing constraints  
 - Improving system throughput and reliability through careful analysis and iteration  
 - Mentoring junior developers and building tools that improve team workflows  
 ---
